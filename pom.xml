@@ -39,6 +39,7 @@
 						<applicationName>worldTimeZoneservice1</applicationName>
 						<muleVersion>4.3.0</muleVersion>
 						<password>Hulk007@</password>
+						<objectStoreV2>true</objectStoreV2>
 						</cloudHubDeployment>
 				</configuration>
 			</plugin>
